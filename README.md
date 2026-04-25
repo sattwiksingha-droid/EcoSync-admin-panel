@@ -9,7 +9,8 @@
 
 | Panel | URL |
 |---|---|
-| Main Site | [https://jocular-custard-374cb6.netlify.app|
+| Main Site |(https://peaceful-brioche-1fcd09.netlify.app/ 
+final project link)|
 | Admin Panel |[ `https://your-site.netlify.app/admin.html`](https://quiet-frangollo-338d5f.netlify.app) |
 
 ---
