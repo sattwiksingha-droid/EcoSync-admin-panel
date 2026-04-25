@@ -9,8 +9,8 @@
 
 | Panel | URL |
 |---|---|
-| Main Site | `https://your-site.netlify.app` |
-| Admin Panel | `https://your-site.netlify.app/admin.html` |
+| Main Site | [https://jocular-custard-374cb6.netlify.app|
+| Admin Panel |[ `https://your-site.netlify.app/admin.html`](https://quiet-frangollo-338d5f.netlify.app) |
 
 ---
 
@@ -103,7 +103,7 @@ Vanilla JS          →  Zero dependencies
 Open admin.html with Live Server in VS Code
 
 # Option 2 — Deployed
-https://your-site.netlify.app/admin.html
+https://quiet-frangollo-338d5f.netlify.app
 ```
 
 > No login required for hackathon demo.
