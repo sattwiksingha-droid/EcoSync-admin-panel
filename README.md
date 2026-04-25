@@ -116,4 +116,4 @@ https://quiet-frangollo-338d5f.netlify.app
 
 ---
 
-*© 2025 EcoSync Admin Panel — Decentralized. Reliable. Fast.*
+*© 2026 EcoSync Admin Panel — Decentralized. Reliable. Fast.*
