@@ -11,7 +11,7 @@
 |---|---|
 | Main Site |https://peaceful-brioche-1fcd09.netlify.app/ 
 final project link)|
-| Admin Panel |[https://eco-sync-admin-panel.vercel.app/) |
+| Admin Panel |https://eco-sync-admin-panel.vercel.app |
 
 ---
 
